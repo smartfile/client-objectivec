@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/smartfile/!svn/ver/2/iOS/trunk/src/SmartFile/AFNetworking
+END
+AFHTTPClient.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/smartfile/!svn/ver/2/iOS/trunk/src/SmartFile/AFNetworking/AFHTTPClient.m
+END
+AFNetworking.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/smartfile/!svn/ver/2/iOS/trunk/src/SmartFile/AFNetworking/AFNetworking.h
+END
+AFXMLRequestOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/smartfile/!svn/ver/2/iOS/trunk/src/SmartFile/AFNetworking/AFXMLRequestOperation.h
+END
+UIImageView+AFNetworking.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/smartfile/!svn/ver/2/iOS/trunk/src/SmartFile/AFNetworking/UIImageView+AFNetworking.h
+END
+AFNetworkActivityIndicatorManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/smartfile/!svn/ver/2/iOS/trunk/src/SmartFile/AFNetworking/AFNetworkActivityIndicatorManager.h
+END
+AFXMLRequestOperation.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/smartfile/!svn/ver/2/iOS/trunk/src/SmartFile/AFNetworking/AFXMLRequestOperation.m
+END
+AFURLConnectionOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/smartfile/!svn/ver/2/iOS/trunk/src/SmartFile/AFNetworking/AFURLConnectionOperation.h
+END
+AFNetworkActivityIndicatorManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/smartfile/!svn/ver/2/iOS/trunk/src/SmartFile/AFNetworking/AFNetworkActivityIndicatorManager.m
+END
+AFJSONRequestOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/smartfile/!svn/ver/2/iOS/trunk/src/SmartFile/AFNetworking/AFJSONRequestOperation.h
+END
+UIImageView+AFNetworking.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/smartfile/!svn/ver/2/iOS/trunk/src/SmartFile/AFNetworking/UIImageView+AFNetworking.m
+END
+AFURLConnectionOperation.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/smartfile/!svn/ver/2/iOS/trunk/src/SmartFile/AFNetworking/AFURLConnectionOperation.m
+END
+AFJSONRequestOperation.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/smartfile/!svn/ver/2/iOS/trunk/src/SmartFile/AFNetworking/AFJSONRequestOperation.m
+END
+AFHTTPRequestOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/smartfile/!svn/ver/2/iOS/trunk/src/SmartFile/AFNetworking/AFHTTPRequestOperation.h
+END
+AFPropertyListRequestOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/smartfile/!svn/ver/2/iOS/trunk/src/SmartFile/AFNetworking/AFPropertyListRequestOperation.h
+END
+AFImageRequestOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/smartfile/!svn/ver/2/iOS/trunk/src/SmartFile/AFNetworking/AFImageRequestOperation.h
+END
+AFHTTPClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/smartfile/!svn/ver/2/iOS/trunk/src/SmartFile/AFNetworking/AFHTTPClient.h
+END
+AFHTTPRequestOperation.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/smartfile/!svn/ver/2/iOS/trunk/src/SmartFile/AFNetworking/AFHTTPRequestOperation.m
+END
+AFPropertyListRequestOperation.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/smartfile/!svn/ver/2/iOS/trunk/src/SmartFile/AFNetworking/AFPropertyListRequestOperation.m
+END
+AFImageRequestOperation.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/smartfile/!svn/ver/2/iOS/trunk/src/SmartFile/AFNetworking/AFImageRequestOperation.m
+END

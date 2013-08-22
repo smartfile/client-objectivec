@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/smartfile/!svn/ver/20/iOS/trunk/src/SmartFileTests/SmartFileTests
+END
+Credentials.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/smartfile/!svn/ver/19/iOS/trunk/src/SmartFileTests/SmartFileTests/Credentials.h
+END
+OAuthClientTests.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/smartfile/!svn/ver/12/iOS/trunk/src/SmartFileTests/SmartFileTests/OAuthClientTests.h
+END
+BasicClientTests.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/smartfile/!svn/ver/12/iOS/trunk/src/SmartFileTests/SmartFileTests/BasicClientTests.h
+END
+SmartFileTests-Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/smartfile/!svn/ver/6/iOS/trunk/src/SmartFileTests/SmartFileTests/SmartFileTests-Info.plist
+END
+OAuthClientTests.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/smartfile/!svn/ver/12/iOS/trunk/src/SmartFileTests/SmartFileTests/OAuthClientTests.m
+END
+SmartFileTests-Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/smartfile/!svn/ver/7/iOS/trunk/src/SmartFileTests/SmartFileTests/SmartFileTests-Prefix.pch
+END
+BasicClientTests.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/smartfile/!svn/ver/20/iOS/trunk/src/SmartFileTests/SmartFileTests/BasicClientTests.m
+END
