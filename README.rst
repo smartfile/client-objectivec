@@ -27,7 +27,7 @@ Get the source code from GitHub.
 
 ::
 
-    $ git clone https://github.com/smartfile/client-objc.git smartfile
+    $ git clone https://github.com/smartfile/client-objectivec.git smartfile
     $ cd smartfile
 
 You can see following directory structure.
